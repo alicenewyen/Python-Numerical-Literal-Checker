@@ -128,3 +128,4 @@ while True:
         print(f"{user_input} is not a valid {['Decimal Integer', 'Octal Integer', 'Hexadecimal Integer', 'Floating-Point'][literal_type - 1]} literal.")
 
     print()
+2
